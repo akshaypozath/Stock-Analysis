@@ -6,7 +6,7 @@ This project aims to predict stock market trends based on the sentiment of news 
 
 -Analyze the sentiment of daily news headlines.
 
--Predicts whether the specific stock will go up or down based of Sentiment.
+-Predicts whether the specific stock will go up or down based off of sentiment.
 
 
 
